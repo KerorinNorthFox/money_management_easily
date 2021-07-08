@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-
-
 def moneyfunc(first, plus, minus):
     print("何か月先まで計算したいですか?")
     a_range = input()
